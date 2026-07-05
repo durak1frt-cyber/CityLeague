@@ -1,0 +1,884 @@
+{
+  "profiles": [
+    {
+      "id": "player-ahmet",
+      "username": "ahmet_yilmaz",
+      "full_name": "Ahmet Yılmaz",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "captain",
+      "bio": "Ankara Lions kaptanı. Forvet hattında oynuyorum. Rekabetçi turnuvaları seviyorum.",
+      "city": "Ankara",
+      "location_detail": "Çankaya",
+      "skill_level": "semi-pro",
+      "primary_sport": "football",
+      "preferred_position": "ST",
+      "football_nickname": "AHMET 9",
+      "social_links": {
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com",
+        "contact_email": "ahmet@cityleague.com"
+      },
+      "aggregated_stats": {
+        "wins": 14,
+        "matches_played": 20,
+        "goals": 18,
+        "assists": 6,
+        "mvps": 5
+      },
+      "personal_sponsor_name": "Red Bull",
+      "personal_sponsor_logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_Energy_Drink_logo.svg",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-can",
+      "username": "can_demir",
+      "full_name": "Can Demir",
+      "avatar_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "player",
+      "bio": "Kalenin güvencesi. Reflekslerimle Ankara Lions kalesini koruyorum.",
+      "city": "Ankara",
+      "location_detail": "Keçiören",
+      "skill_level": "advanced",
+      "primary_sport": "football",
+      "preferred_position": "GK",
+      "football_nickname": "CAN 1",
+      "social_links": {
+        "instagram": "https://instagram.com"
+      },
+      "aggregated_stats": {
+        "wins": 12,
+        "matches_played": 18,
+        "goals": 0,
+        "assists": 1,
+        "mvps": 3
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-mert",
+      "username": "mert_kaya",
+      "full_name": "Mert Kaya",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "player",
+      "bio": "Orta sahanın beyni. Oyun kurucu rolünde Ankara Lions'a asist üretiyorum.",
+      "city": "Ankara",
+      "location_detail": "Yenimahalle",
+      "skill_level": "advanced",
+      "primary_sport": "football",
+      "preferred_position": "CM",
+      "football_nickname": "MERT 8",
+      "social_links": {
+        "instagram": "https://instagram.com"
+      },
+      "aggregated_stats": {
+        "wins": 15,
+        "matches_played": 22,
+        "goals": 4,
+        "assists": 12,
+        "mvps": 2
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-selim",
+      "username": "selim_oz",
+      "full_name": "Selim Öz",
+      "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "captain",
+      "bio": "İstanbul Eagles kaptanı. Kanat akınlarıyla gol ararım.",
+      "city": "İstanbul",
+      "location_detail": "Beşiktaş",
+      "skill_level": "semi-pro",
+      "primary_sport": "football",
+      "preferred_position": "LW",
+      "football_nickname": "SELİM 7",
+      "social_links": {
+        "instagram": "https://instagram.com",
+        "contact_email": "selim@eagles.com"
+      },
+      "aggregated_stats": {
+        "wins": 18,
+        "matches_played": 25,
+        "goals": 21,
+        "assists": 8,
+        "mvps": 6
+      },
+      "personal_sponsor_name": "Nike",
+      "personal_sponsor_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "onboarding_completed": true,
+      "preferred_locale": "en"
+    },
+    {
+      "id": "player-bora",
+      "username": "bora_sahin",
+      "full_name": "Bora Şahin",
+      "avatar_url": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "player",
+      "bio": "İstanbul Eagles defans belkemiği. Hava toplarında geçit vermem.",
+      "city": "İstanbul",
+      "location_detail": "Kadıköy",
+      "skill_level": "advanced",
+      "primary_sport": "football",
+      "preferred_position": "CB",
+      "football_nickname": "BORA 4",
+      "social_links": {
+        "instagram": "https://instagram.com"
+      },
+      "aggregated_stats": {
+        "wins": 16,
+        "matches_played": 24,
+        "goals": 2,
+        "assists": 1,
+        "mvps": 1
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-hakan",
+      "username": "hakan_terim",
+      "full_name": "Hakan Terim",
+      "avatar_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "coach",
+      "bio": "U21 takımlarında antrenörlük yaptım. Şimdi CityLeague'de genç yeteneklere taktik dersleri veriyorum.",
+      "city": "Ankara",
+      "location_detail": "Çankaya",
+      "skill_level": "semi-pro",
+      "primary_sport": "football",
+      "preferred_position": "Coach",
+      "football_nickname": "COACH HAKAN",
+      "social_links": {
+        "contact_email": "hakan@coaching.com"
+      },
+      "aggregated_stats": {
+        "wins": 45,
+        "matches_played": 60
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-referee",
+      "username": "referee_cuneyt",
+      "full_name": "Cüneyt Çakır",
+      "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "stadium_official",
+      "bio": "Uluslararası lisanslı CityLeague saha hakemi ve VAR görevlisi.",
+      "city": "Ankara",
+      "location_detail": "Altındağ",
+      "skill_level": "semi-pro",
+      "primary_sport": "football",
+      "preferred_position": "Referee",
+      "football_nickname": "REF CÜNEYT",
+      "social_links": {},
+      "aggregated_stats": {
+        "wins": 0,
+        "matches_played": 120
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    },
+    {
+      "id": "player-admin",
+      "username": "admin_firat",
+      "full_name": "Fırat Durak",
+      "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+      "role": "platform_admin",
+      "bio": "CityLeague Platform Kurucusu ve Baş Yöneticisi.",
+      "city": "Ankara",
+      "location_detail": "Etimesgut",
+      "skill_level": "semi-pro",
+      "primary_sport": "football",
+      "preferred_position": "Admin",
+      "football_nickname": "ADMIN FIRAT",
+      "social_links": {
+        "contact_email": "firat@cityleague.com"
+      },
+      "aggregated_stats": {
+        "wins": 0,
+        "matches_played": 0
+      },
+      "personal_sponsor_name": "",
+      "personal_sponsor_logo_url": "",
+      "onboarding_completed": true,
+      "preferred_locale": "tr"
+    }
+  ],
+  "teams": [
+    {
+      "id": "team-lions",
+      "created_at": "2026-06-05T07:44:00.091Z",
+      "name": "Ankara Lions",
+      "logo_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=128&h=128&q=80",
+      "primary_color": "#1e3a8a",
+      "secondary_color": "#eab308",
+      "jersey_design": {
+        "templateId": "striped",
+        "primaryColor": "#1e3a8a",
+        "secondaryColor": "#eab308",
+        "accentColor": "#ffffff",
+        "text": "LIONS",
+        "number": "10",
+        "sponsorLogoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_Energy_Drink_logo.svg"
+      },
+      "team_sponsor_name": "Red Bull",
+      "team_sponsor_logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_Energy_Drink_logo.svg",
+      "captain_id": "player-ahmet",
+      "coach_id": "player-hakan",
+      "city": "Ankara",
+      "description": "Ankara'nın en köklü ve iddialı semt kulüplerinden biri. Hız ve disipline önem veriyoruz.",
+      "sport": "football"
+    },
+    {
+      "id": "team-eagles",
+      "created_at": "2026-05-26T07:44:00.091Z",
+      "name": "İstanbul Eagles",
+      "logo_url": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=128&h=128&q=80",
+      "primary_color": "#111827",
+      "secondary_color": "#f3f4f6",
+      "jersey_design": {
+        "templateId": "solid",
+        "primaryColor": "#111827",
+        "secondaryColor": "#f3f4f6",
+        "accentColor": "#e5e7eb",
+        "text": "EAGLES",
+        "number": "7",
+        "sponsorLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg"
+      },
+      "team_sponsor_name": "Nike",
+      "team_sponsor_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "captain_id": "player-selim",
+      "coach_id": "",
+      "city": "İstanbul",
+      "description": "Birliktelik ve dinamizm üzerine kurulu İstanbul temsilcisi.",
+      "sport": "football"
+    },
+    {
+      "id": "team-dragons",
+      "created_at": "2026-06-25T07:44:00.091Z",
+      "name": "Çankaya Dragons",
+      "logo_url": "https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=128&h=128&q=80",
+      "primary_color": "#991b1b",
+      "secondary_color": "#1e1b4b",
+      "jersey_design": {
+        "templateId": "gradient",
+        "primaryColor": "#991b1b",
+        "secondaryColor": "#1e1b4b",
+        "accentColor": "#ffffff",
+        "text": "DRAGONS",
+        "number": "5"
+      },
+      "team_sponsor_name": "",
+      "team_sponsor_logo_url": "",
+      "captain_id": "",
+      "coach_id": "",
+      "city": "Ankara",
+      "description": "Çankaya'nın genç ejderhaları. Hırslı ve dinamik kadro.",
+      "sport": "football"
+    },
+    {
+      "id": "team-spartans",
+      "created_at": "2026-06-30T07:44:00.091Z",
+      "name": "Bilkent Spartans",
+      "logo_url": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&w=128&h=128&q=80",
+      "primary_color": "#166534",
+      "secondary_color": "#f59e0b",
+      "jersey_design": {
+        "templateId": "solid",
+        "primaryColor": "#166534",
+        "secondaryColor": "#f59e0b",
+        "accentColor": "#ffffff",
+        "text": "SPARTANS",
+        "number": "9"
+      },
+      "team_sponsor_name": "",
+      "team_sponsor_logo_url": "",
+      "captain_id": "",
+      "coach_id": "",
+      "city": "Ankara",
+      "description": "Üniversite liginden CityLeague'e katılan genç spartalılar.",
+      "sport": "football"
+    }
+  ],
+  "team_members": [
+    {
+      "team_id": "team-lions",
+      "profile_id": "player-ahmet",
+      "joined_at": "2026-07-05T07:44:00.091Z",
+      "role": "captain"
+    },
+    {
+      "team_id": "team-lions",
+      "profile_id": "player-can",
+      "joined_at": "2026-07-05T07:44:00.091Z",
+      "role": "player"
+    },
+    {
+      "team_id": "team-lions",
+      "profile_id": "player-mert",
+      "joined_at": "2026-07-05T07:44:00.091Z",
+      "role": "player"
+    },
+    {
+      "team_id": "team-eagles",
+      "profile_id": "player-selim",
+      "joined_at": "2026-07-05T07:44:00.091Z",
+      "role": "captain"
+    },
+    {
+      "team_id": "team-eagles",
+      "profile_id": "player-bora",
+      "joined_at": "2026-07-05T07:44:00.091Z",
+      "role": "player"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": "tournament-citycup",
+      "created_at": "2026-06-20T07:44:00.091Z",
+      "name": "City Cup 2026",
+      "sport": "football",
+      "format": "single_elimination",
+      "start_date": "2026-06-30T07:44:00.091Z",
+      "end_date": "2026-07-15T07:44:00.091Z",
+      "max_teams": 4,
+      "min_teams": 2,
+      "required_roster_size": 3,
+      "status": "active",
+      "rules": {
+        "match_duration_minutes": 90,
+        "periods": 2,
+        "points_per_win": 3,
+        "points_per_draw": 1
+      },
+      "custom_conditions": {
+        "age_restriction": "18+",
+        "skill_restriction": "Open",
+        "geographic_restriction": "Ankara & İstanbul"
+      },
+      "custom_requirements_text": "Tüm takımların en az 3 lisanslı oyuncu kaydetmiş olması ve forma renklerini önceden belirlemesi gerekmektedir.",
+      "registration_deadline": "2026-06-29T07:44:00.091Z",
+      "entry_fee": 250,
+      "title_sponsor_name": "Red Bull",
+      "title_sponsor_logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_Energy_Drink_logo.svg",
+      "created_by": "player-admin"
+    }
+  ],
+  "tournament_teams": [
+    {
+      "tournament_id": "tournament-citycup",
+      "team_id": "team-lions",
+      "registered_at": "2026-07-05T07:44:00.091Z",
+      "status": "approved",
+      "roster_complete": true
+    },
+    {
+      "tournament_id": "tournament-citycup",
+      "team_id": "team-eagles",
+      "registered_at": "2026-07-05T07:44:00.091Z",
+      "status": "approved",
+      "roster_complete": true
+    },
+    {
+      "tournament_id": "tournament-citycup",
+      "team_id": "team-dragons",
+      "registered_at": "2026-07-05T07:44:00.091Z",
+      "status": "approved",
+      "roster_complete": true
+    },
+    {
+      "tournament_id": "tournament-citycup",
+      "team_id": "team-spartans",
+      "registered_at": "2026-07-05T07:44:00.091Z",
+      "status": "approved",
+      "roster_complete": true
+    }
+  ],
+  "venues": [
+    {
+      "id": "venue-central",
+      "created_at": "2026-07-05T07:44:00.091Z",
+      "name": "Central Arena Stadium",
+      "address": "Balgat Spor Caddesi No:45",
+      "city": "Ankara",
+      "capacity": 2500,
+      "photo_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&h=400&q=80",
+      "assigned_official_id": "player-referee"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match-1",
+      "tournament_id": "tournament-citycup",
+      "venue_id": "venue-central",
+      "round": 1,
+      "match_index": 0,
+      "home_team_id": "team-lions",
+      "away_team_id": "team-eagles",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "completed",
+      "match_date": "2026-07-03T07:44:00.091Z",
+      "parent_match_id": "match-final",
+      "official_id": "player-referee",
+      "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "telemetry_data": {
+        "heatmaps": {
+          "player-ahmet": [
+            {
+              "x": 30,
+              "y": 40,
+              "value": 5
+            },
+            {
+              "x": 32,
+              "y": 45,
+              "value": 8
+            },
+            {
+              "x": 75,
+              "y": 20,
+              "value": 12
+            },
+            {
+              "x": 80,
+              "y": 30,
+              "value": 18
+            },
+            {
+              "x": 82,
+              "y": 48,
+              "value": 25
+            },
+            {
+              "x": 85,
+              "y": 52,
+              "value": 30
+            },
+            {
+              "x": 70,
+              "y": 70,
+              "value": 15
+            },
+            {
+              "x": 78,
+              "y": 55,
+              "value": 20
+            },
+            {
+              "x": 88,
+              "y": 50,
+              "value": 22
+            }
+          ],
+          "player-mert": [
+            {
+              "x": 50,
+              "y": 50,
+              "value": 25
+            },
+            {
+              "x": 45,
+              "y": 48,
+              "value": 22
+            },
+            {
+              "x": 55,
+              "y": 52,
+              "value": 30
+            },
+            {
+              "x": 60,
+              "y": 35,
+              "value": 18
+            },
+            {
+              "x": 40,
+              "y": 65,
+              "value": 14
+            },
+            {
+              "x": 70,
+              "y": 45,
+              "value": 15
+            }
+          ]
+        },
+        "speed_run_speed_kmh": [
+          {
+            "min": 5,
+            "speed": 12
+          },
+          {
+            "min": 15,
+            "speed": 18
+          },
+          {
+            "min": 30,
+            "speed": 28
+          },
+          {
+            "min": 45,
+            "speed": 14
+          },
+          {
+            "min": 60,
+            "speed": 22
+          },
+          {
+            "min": 75,
+            "speed": 32
+          },
+          {
+            "min": 90,
+            "speed": 10
+          }
+        ],
+        "accuracies": [
+          {
+            "label": "Passing",
+            "value": 88
+          },
+          {
+            "label": "Shooting",
+            "value": 72
+          },
+          {
+            "label": "Tackling",
+            "value": 65
+          },
+          {
+            "label": "Positioning",
+            "value": 92
+          },
+          {
+            "label": "Dribbling",
+            "value": 75
+          }
+        ]
+      }
+    },
+    {
+      "id": "match-2",
+      "tournament_id": "tournament-citycup",
+      "venue_id": "venue-central",
+      "round": 1,
+      "match_index": 1,
+      "home_team_id": "team-dragons",
+      "away_team_id": "team-spartans",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "completed",
+      "match_date": "2026-07-04T07:44:00.091Z",
+      "parent_match_id": "match-final",
+      "official_id": "player-referee",
+      "video_url": "",
+      "telemetry_data": {}
+    },
+    {
+      "id": "match-final",
+      "tournament_id": "tournament-citycup",
+      "venue_id": "venue-central",
+      "round": 2,
+      "match_index": 0,
+      "home_team_id": "team-lions",
+      "away_team_id": "team-dragons",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "scheduled",
+      "match_date": "2026-07-09T07:44:00.091Z",
+      "parent_match_id": "",
+      "official_id": "player-referee",
+      "video_url": "",
+      "telemetry_data": {}
+    }
+  ],
+  "match_events": [
+    {
+      "id": "evt-1",
+      "match_id": "match-1",
+      "player_id": "player-ahmet",
+      "team_id": "team-lions",
+      "event_type": "goal",
+      "minute": 14,
+      "notes": "Harika plase şut"
+    },
+    {
+      "id": "evt-2",
+      "match_id": "match-1",
+      "player_id": "player-mert",
+      "team_id": "team-lions",
+      "event_type": "assist",
+      "minute": 14,
+      "notes": "Kilit pas"
+    },
+    {
+      "id": "evt-3",
+      "match_id": "match-1",
+      "player_id": "player-selim",
+      "team_id": "team-eagles",
+      "event_type": "goal",
+      "minute": 34,
+      "notes": "Kafa golü"
+    },
+    {
+      "id": "evt-4",
+      "match_id": "match-1",
+      "player_id": "player-ahmet",
+      "team_id": "team-lions",
+      "event_type": "goal",
+      "minute": 67,
+      "notes": "Ceza sahası dışı füze"
+    },
+    {
+      "id": "evt-5",
+      "match_id": "match-1",
+      "player_id": "player-bora",
+      "team_id": "team-eagles",
+      "event_type": "yellow_card",
+      "minute": 75,
+      "notes": "Sert müdahale"
+    },
+    {
+      "id": "evt-6",
+      "match_id": "match-1",
+      "player_id": "player-selim",
+      "team_id": "team-eagles",
+      "event_type": "goal",
+      "minute": 82,
+      "notes": "Penaltı golü"
+    },
+    {
+      "id": "evt-7",
+      "match_id": "match-1",
+      "player_id": "player-mert",
+      "team_id": "team-lions",
+      "event_type": "goal",
+      "minute": 88,
+      "notes": "Kaptan Ahmet'in pasıyla galibiyet golü"
+    }
+  ],
+  "player_match_stats": [
+    {
+      "id": "stat-ahmet-m1",
+      "match_id": "match-1",
+      "player_id": "player-ahmet",
+      "sport": "football",
+      "stats_values": {
+        "goals": 2,
+        "assists": 0,
+        "distance_km": 10.4,
+        "top_speed_kmh": 32.4,
+        "passes_completed": 18,
+        "mvp": true
+      }
+    },
+    {
+      "id": "stat-mert-m1",
+      "match_id": "match-1",
+      "player_id": "player-mert",
+      "sport": "football",
+      "stats_values": {
+        "goals": 1,
+        "assists": 1,
+        "distance_km": 11.2,
+        "top_speed_kmh": 28.5,
+        "passes_completed": 45,
+        "mvp": false
+      }
+    },
+    {
+      "id": "stat-selim-m1",
+      "match_id": "match-1",
+      "player_id": "player-selim",
+      "sport": "football",
+      "stats_values": {
+        "goals": 2,
+        "assists": 0,
+        "distance_km": 9.8,
+        "top_speed_kmh": 31.2,
+        "passes_completed": 12,
+        "mvp": false
+      }
+    }
+  ],
+  "feed_events": [
+    {
+      "id": "feed-1",
+      "created_at": "2026-06-30T07:44:00.091Z",
+      "event_type": "tournament_announced",
+      "tournament_id": "tournament-citycup",
+      "title": "City Cup 2026 Kayıtları Başladı!",
+      "description": "Şehrin en büyük futbol organizasyonunda kayıtlar başladı. Takımını kur, yerini hemen ayırt.",
+      "media_url": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=600&h=300&q=80",
+      "media_type": "photo",
+      "metadata": {
+        "shareUrl": "https://cityleague.com/tournaments/tournament-citycup"
+      }
+    },
+    {
+      "id": "feed-2",
+      "created_at": "2026-07-03T07:44:00.091Z",
+      "event_type": "match_completed",
+      "tournament_id": "tournament-citycup",
+      "match_id": "match-1",
+      "title": "Ankara Lions Yarı Finalde Kazandı!",
+      "description": "Kıran kırana geçen efsane yarı final maçında Ankara Lions, İstanbul Eagles ekibini 3-2 yenerek finale yükseldi. Goller Ahmet Yılmaz (2) ve Mert Kaya'dan geldi.",
+      "media_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "media_type": "video",
+      "metadata": {
+        "homeScore": 3,
+        "awayScore": 2,
+        "mvp": "Ahmet Yılmaz"
+      }
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "created_at": "2026-07-03T07:44:00.091Z",
+      "recipient_id": "player-ahmet",
+      "type": "match_completed",
+      "title": "Yarı Final Maçın Sonuçlandı!",
+      "message": "İstanbul Eagles ekibini 3-2 mağlup ettiniz. Maç telemetrisi ve video analizleriniz Match Center'da yayında.",
+      "deep_link": "/matches/match-1",
+      "read": false
+    },
+    {
+      "id": "notif-2",
+      "created_at": "2026-07-01T07:44:00.091Z",
+      "recipient_id": "player-ahmet",
+      "type": "jersey_order_update",
+      "title": "Forma Ödemesi Alındı",
+      "message": "Mert Kaya forma bedeli olan kendi payının ödemesini yaptı.",
+      "deep_link": "/orders/order-lions",
+      "read": true
+    }
+  ],
+  "coaching_drills": [
+    {
+      "id": "drill-1",
+      "created_at": "2026-07-05T07:44:00.091Z",
+      "coach_id": "player-hakan",
+      "title": "Bitiricilik & Ceza Sahası Çevresi Şut Teknikleri",
+      "description": "Forvet oyuncuları için ceza sahası dışından etkili şut açıları bulma, ayak içi plase ve topa falso verme drill antrenmanları.",
+      "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "telemetry_benchmarks": {
+        "speed_target": "28 km/h",
+        "accuracy_target": "%80 İsabet"
+      }
+    }
+  ],
+  "player_drills": [
+    {
+      "id": "pdrill-1",
+      "player_id": "player-ahmet",
+      "drill_id": "drill-1",
+      "completed_at": "2026-07-02T07:44:00.091Z",
+      "performance_score": 94.5,
+      "coach_feedback": "Harika performans, şut isabet oranları oldukça iyi. Pas alışverişlerinden sonraki şut hazırlık süreni biraz daha kısaltabilirsin."
+    }
+  ],
+  "recruitment_listings": [
+    {
+      "id": "list-1",
+      "created_at": "2026-07-05T07:44:00.091Z",
+      "type": "player_seeking_team",
+      "creator_id": "player-mert",
+      "sport": "football",
+      "title": "Deneyimli Orta Saha Oyuncusu Takım Arıyor",
+      "description": "Ankara içi haftasonu liglerinde aktif oynayabileceğim disiplinli bir takım arıyorum. Oyun kurucu ve 8 numara oynayabilirim.",
+      "city": "Ankara",
+      "preferred_position": "CM",
+      "active": true
+    },
+    {
+      "id": "list-2",
+      "created_at": "2026-07-05T07:44:00.091Z",
+      "type": "team_seeking_player",
+      "creator_id": "player-selim",
+      "team_id": "team-eagles",
+      "sport": "football",
+      "title": "İstanbul Eagles Defans Arayışı",
+      "description": "Salı-Perşembe akşamı maçlarında oynamak üzere İstanbul içi stoper (CB) arıyoruz. Hava hakimiyeti yüksek olanlar tercih edilir.",
+      "city": "İstanbul",
+      "preferred_position": "CB",
+      "active": true
+    }
+  ],
+  "recruitment_requests": [
+    {
+      "id": "req-1",
+      "created_at": "2026-07-05T07:44:00.091Z",
+      "listing_id": "list-2",
+      "sender_id": "player-bora",
+      "receiver_id": "player-selim",
+      "team_id": "team-eagles",
+      "message": "Selam Selim, stoper arayışınız için başvurmak istedim. Boyum 1.88, uzun süredir bu pozisyondayım.",
+      "status": "pending"
+    }
+  ],
+  "jersey_orders": [
+    {
+      "id": "order-lions",
+      "created_at": "2026-06-30T07:44:00.091Z",
+      "team_id": "team-lions",
+      "status": "collecting_details",
+      "jersey_design_snapshot": {
+        "templateId": "striped",
+        "primaryColor": "#1e3a8a",
+        "secondaryColor": "#eab308",
+        "accentColor": "#ffffff",
+        "text": "LIONS",
+        "sponsorLogoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_Energy_Drink_logo.svg"
+      },
+      "price_per_unit": 45,
+      "total_items": 3
+    }
+  ],
+  "jersey_order_items": [
+    {
+      "id": "item-ahmet",
+      "order_id": "order-lions",
+      "profile_id": "player-ahmet",
+      "size": "L",
+      "squad_number": 9,
+      "player_name": "AHMET",
+      "paid": true,
+      "paid_at": "2026-07-01T07:44:00.091Z"
+    },
+    {
+      "id": "item-mert",
+      "order_id": "order-lions",
+      "profile_id": "player-mert",
+      "size": "M",
+      "squad_number": 8,
+      "player_name": "MERT",
+      "paid": true,
+      "paid_at": "2026-07-02T07:44:00.091Z"
+    },
+    {
+      "id": "item-can",
+      "order_id": "order-lions",
+      "profile_id": "player-can",
+      "size": "XL",
+      "squad_number": 1,
+      "player_name": "CAN",
+      "paid": false,
+      "paid_at": null
+    }
+  ]
+}
